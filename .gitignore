@@ -1,7 +1,2 @@
-# OS files
-.DS_Store
-Thumbs.db
-
-# Editor folders
-.vscode/
-.idea/
+node_modules/
+.env
